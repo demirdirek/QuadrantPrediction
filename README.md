@@ -42,6 +42,9 @@ cd neural-network-quadrant-prediction
 ```
 
 # Code Explanation
+
+This will train the neural network, make a prediction for a new angle, and display the decision boundaries of the model. Additionally, it will generate an interactive visualization of the neural network architecture using Plotly.
+
 ## Quadrant Prediction Model
 
 - The script begins by generating random angles and determining their corresponding quadrants.
